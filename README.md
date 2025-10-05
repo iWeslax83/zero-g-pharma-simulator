@@ -16,6 +16,10 @@ This project aims to visualize these phenomena using **Python + VPython** with a
 
 Make sure you have Python 3.10+ and VPython installed:
 
+
+```bash
+pip install vpython
+```
 ---
 
 ## 🎯 NASA Space Apps Challenge Theme
@@ -33,8 +37,4 @@ Our simulator demonstrates how **gravity differences affect crystal formation**,
 🔹 Compact visual window (doesn’t cover full screen)  
 🔹 Terminal-based statistics for standalone execution  
 
----
 
-
-```bash
-pip install vpython
