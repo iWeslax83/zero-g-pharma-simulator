@@ -22,7 +22,7 @@ pip install vpython
 ```
 ---
 
-## 🎯 NASA Space Apps Challenge Theme
+## 🎯 Project Theme
 > *“How can we use microgravity to improve health and medicine on Earth?”*
 
 Our simulator demonstrates how **gravity differences affect crystal formation**, material separation, and molecule motion — forming a bridge between **space research** and **biomedical innovation**.
